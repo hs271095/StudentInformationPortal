@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227863485668",
+    "firebase_url": "https://studentinformationportal-2a63b.firebaseio.com",
+    "project_id": "studentinformationportal-2a63b",
+    "storage_bucket": "studentinformationportal-2a63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227863485668:android:fbd9be9973e21901",
+        "android_client_info": {
+          "package_name": "bangalore.bms.studentinformationportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227863485668-5etb6fpohspf361uae3lko2ij4h07gmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bangalore.bms.studentinformationportal",
+            "certificate_hash": "8349eda407db4f21cba6d6fd2f2c8063ec8ab125"
+          }
+        },
+        {
+          "client_id": "227863485668-kvpffal7o0t10f85j4oflrb32db215ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeO25tu1kPmM9xTPyjCTE3F9H-YVkrdGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227863485668-kvpffal7o0t10f85j4oflrb32db215ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
